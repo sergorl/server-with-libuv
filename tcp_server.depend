@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1523036594 source:d:\c_cpp\tcp_server\main.c
+	<stdio.h>
+	<unistd.h>
+	"server.h"
+
+1523003184 c:\libuv_source\libuv\include\uv.h
+	"uv-errno.h"
+	"uv-version.h"
+	<stddef.h>
+	<stdio.h>
+	"stdint-msvc2008.h"
+	<stdint.h>
+	"uv-win.h"
+	"uv-unix.h"
+
+1523003184 c:\libuv_source\libuv\include\uv-errno.h
+	<errno.h>
+
+1523003184 c:\libuv_source\libuv\include\uv-version.h
+
+1523003184 c:\libuv_source\libuv\include\stdint-msvc2008.h
+	<limits.h>
+	<wchar.h>
+
+1523003184 c:\libuv_source\libuv\include\uv-win.h
+	<winsock2.h>
+	<mswsock.h>
+	<ws2tcpip.h>
+	<windows.h>
+	<process.h>
+	<signal.h>
+	<fcntl.h>
+	<sys/stat.h>
+	"stdint-msvc2008.h"
+	<stdint.h>
+	"tree.h"
+	"uv-threadpool.h"
+
+1523003184 c:\libuv_source\libuv\include\tree.h
+
+1523003184 c:\libuv_source\libuv\include\uv-threadpool.h
+
+1523003184 c:\libuv_source\libuv\include\uv-unix.h
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<dirent.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netinet/tcp.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<termios.h>
+	<pwd.h>
+	<semaphore.h>
+	<pthread.h>
+	<signal.h>
+	"uv-threadpool.h"
+	"uv-linux.h"
+	"uv-os390.h"
+	"uv-posix.h"
+	"uv-aix.h"
+	"uv-sunos.h"
+	"uv-darwin.h"
+	"uv-bsd.h"
+	"uv-posix.h"
+	"pthread-barrier.h"
+
+1523003184 c:\libuv_source\libuv\include\uv-linux.h
+
+1523003184 c:\libuv_source\libuv\include\uv-os390.h
+
+1523003184 c:\libuv_source\libuv\include\uv-posix.h
+
+1523003184 c:\libuv_source\libuv\include\uv-aix.h
+
+1523003184 c:\libuv_source\libuv\include\uv-sunos.h
+	<sys/port.h>
+	<port.h>
+
+1523003184 c:\libuv_source\libuv\include\uv-darwin.h
+	<mach/mach.h>
+	<mach/task.h>
+	<mach/semaphore.h>
+	<TargetConditionals.h>
+
+1523003184 c:\libuv_source\libuv\include\uv-bsd.h
+
+1523003184 c:\libuv_source\libuv\include\pthread-barrier.h
+	<errno.h>
+	<pthread.h>
+	<semaphore.h>
+
+1463434434 c:\program files\libuv_win\include\uv.h
+	"uv-errno.h"
+	"uv-version.h"
+	<stddef.h>
+	<stdio.h>
+	"stdint-msvc2008.h"
+	<stdint.h>
+	"uv-win.h"
+	"uv-unix.h"
+
+1463434434 c:\program files\libuv_win\include\uv-errno.h
+	<errno.h>
+
+1463434434 c:\program files\libuv_win\include\uv-version.h
+
+1463434434 c:\program files\libuv_win\include\uv-win.h
+	<winsock2.h>
+	<mswsock.h>
+	<ws2tcpip.h>
+	<windows.h>
+	<process.h>
+	<signal.h>
+	<sys/stat.h>
+	"stdint-msvc2008.h"
+	<stdint.h>
+	"tree.h"
+	"uv-threadpool.h"
+
+1463434434 c:\program files\libuv_win\include\tree.h
+
+1463434434 c:\program files\libuv_win\include\uv-threadpool.h
+
+1523035313 d:\c_cpp\tcp_server\server.h
+	<stdlib.h>
+	<string.h>
+	<uv.h>
+
+1523051344 source:d:\c_cpp\tcp_server\server.c
+	"server.h"
+
